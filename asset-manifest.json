@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73ba6910.css",
+    "main.js": "/static/js/main.ec907fe2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/content.png": "/static/media/content.516d79eadc29eb5337b6.png",
+    "static/media/chandu.jpeg": "/static/media/chandu.3c3a305e95672e312461.jpeg",
+    "static/media/css.png": "/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/flutter.jpg": "/static/media/flutter.eb58b8046a77b6fd7780.jpg",
+    "static/media/react.png": "/static/media/react.4458987cc59156258cac.png",
+    "index.html": "/index.html",
+    "main.73ba6910.css.map": "/static/css/main.73ba6910.css.map",
+    "main.ec907fe2.js.map": "/static/js/main.ec907fe2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ba6910.css",
+    "static/js/main.ec907fe2.js"
+  ]
+}
